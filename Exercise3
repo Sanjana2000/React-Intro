@@ -1,0 +1,18 @@
+Benefits of React:
+
+1.React uses a virtual DOM.The virtual DOM is a representation
+ mapped to a real DOM that tracks changes and updates only specific
+ elements without affecting the other parts of the whole tree.
+2.React uses JavaScript, a dynamically-typed language
+ which means we don’t have to define the variable’s type.
+
+
+Benefits of Angular:
+1.Angular is a front-end framework powered by Google
+ and is compatible with most of the common code editors.
+2.Angular framework allows developers to create dynamic,
+single-page web applications (SPAs).
+3.Angular uses two-way binding. If we change the UI element (a user input) in Angular,
+then the corresponding model state changes as well.
+ Additionally, if we change the model state, then the UI element changes –
+ hence, two-way data binding.

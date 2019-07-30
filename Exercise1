@@ -1,0 +1,33 @@
+SPA: A single-page application is a web application or web site that
+interacts with the user by dynamically rewriting the current page rather
+than loading entire new pages from a server.This can dramatically improve the
+speed and overall flow of a user experience.After the application loads, usually only
+small amounts of data are sent back and forth between the browser and server instead
+of full pages. This usually results in better performance and doesn't use as much
+bandwidth. Also, different portions of the application can be updated dynamically
+without having to reload the entire page. In addition to less bandwidth, this also means
+less load on the browser and server.
+
+
+
+Progessive web app:
+
+ A PWA lets you install the application from the browser window itself,
+  is available on your phone like a native app.
+ PWA works offline, just like a native app.When you open this app,
+ you will be able to browse the content even when you do not
+  have internet. You have offline access to the app.
+
+  1. It is Fast: PWAs provide experiences that are consistently fast.
+From the moment a user downloads an app to the moment they start interacting with it,
+everything happens really fast because you can cache the data, it is extremely fast to
+start the app again even without hitting the network.
+
+2. Integrated user experience: PWAs feel and behave like native apps. They sit in
+a user’s home screen, send push notifications like native apps, and have access to a
+device’s functionalities like native apps. The experience feels seamless and integrated.
+
+3. Reliable experience: With the help of service workers, we can reliably paint a picture
+on a user’s screen even when network has failed.
+Engaging: Because we can send notifications to a user, we can really drive the
+engagement up by keeping the user notified and engaged with the app.

@@ -1,31 +1,13 @@
-React app VS Angular app:
+Exercise2:
+In your own words,
+describe React's core concept of uni-directional data flow.
+Draw diagrams to illustrate.
 
-React App:
-   Some companies who use React are below,
-Facebook
-AirBnb
-Uber
-Netflix
-Instagram
-Whatsapp
-Dropbox
-PayPal
-Twitter
-Udemy
-Reddit
-Walmart
+In uni-directional data flow, the information flows in only one direction,
+and is when the information is displayed, but not updated.
+It is used to bind the data from the model to view without updating the HTML
+template or view automatically.So custom code is needed to accomplish it.
 
-Angular App:
-  Some companies who use Angular are below,
-CVS
-onefootball
-Google Express
-NBA
-Delta
-wix.com
-Forbes
-WhatsApp
-Instagram
-healthcare.gov
-HBO
-Nike
+Whereas Two-way data binding is used to bind the data from the model to
+view and vice versa by automatically updating the HTML
+template without writing any custom code.
